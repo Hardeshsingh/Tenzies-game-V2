@@ -10,11 +10,11 @@ body {
 }
 
 main {
-  background-color: #F5F5F5;
-  height: 400px;
-  max-width: 800px;
+  background-color: rgb(194, 194, 211);
+  height: 550px;
+  width: 1290px;
   border-radius: 5px;
-  padding: 20px;
+  padding: 60px;
   display: flex;
   flex-direction: column;
   justify-content: space-around;
@@ -32,6 +32,11 @@ main {
   margin-top: 0;
   text-align: center;
 }
+
+.play-time{
+  font-family: 'Inter', sans-serif;
+  font-weight: bold;
+  }
 
 .dice-container {
   display: grid;
