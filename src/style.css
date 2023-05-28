@@ -11,8 +11,8 @@ body {
 
 main {
   background-color: rgb(194, 194, 211);
-  height: 550px;
-  width: 1290px;
+  height: 95%;
+  width: 95%;
   border-radius: 5px;
   padding: 60px;
   display: flex;
